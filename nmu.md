@@ -1,5 +1,5 @@
-[Листки по курсам](http://ium.mccme.ru/old_courses.html)
-[Все лекции НМУ](http://ium.mccme.ru/IUM-video.html)
++ [Листки по курсам](http://ium.mccme.ru/old_courses.html)
++ [Все лекции НМУ](http://ium.mccme.ru/IUM-video.html)
 
 
 # Алгебра
