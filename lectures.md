@@ -19,6 +19,7 @@
 
 # Дискретная математика
 + [Дискретный анализ](http://lectoriy.mipt.ru/course/Maths-DiscreteMathematics-13L)
++ [Дискретный анализ и теория вероятностей (ШАД)](https://yandexdataschool.ru/edu-process/courses/probability)
 + [Основы комбинаторики и теории чисел](http://lectoriy.mipt.ru/course/Maths-Combinatorics-AMR-Lects)
 + Простая комбинаторика: [лекции](http://lectoriy.mipt.ru/course/Maths-CombinatoricsBasics-L15) и [семинары](http://lectoriy.mipt.ru/course/Maths-CombinatoricsBasics-15S)
 + [Теория игр](http://lectoriy.mipt.ru/course/Maths-GameTheory-15L#lectures)
@@ -34,6 +35,7 @@
 + [Диофантовы уравнения](http://lectoriy.mipt.ru/course/Maths-DiophantineEquations-15L)
 + [Математические основы цифровой обработки сигналов](http://lectoriy.mipt.ru/course/RadioTechnology-MathDigitalSignalProcessing-14L)
 + [Сложность вычислений](http://lectoriy.mipt.ru/course/Maths-ComputationalComplexity-14L)
++ [Сложность вычислений (ШАД)](https://yandexdataschool.ru/edu-process/courses/complexity)
 + [Динамические системы](https://www.lektorium.tv/course/28726)
 + [Рассказы о теории чисел, алгебраической геометрии и гомотопической топологии](https://www.lektorium.tv/course/22791)
 
