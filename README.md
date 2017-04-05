@@ -4,8 +4,8 @@
 + [Кольца и поля](http://lectoriy.mipt.ru/course/Maths-RingsAndFields-15L)
 
 # Анализ
-+ [Анализ I (МФТИ)](http://lectoriy.mipt.ru/course/Maths-Basic_Analysis#lectures)
-+ [Анализ II (МФТИ)](http://lectoriy.mipt.ru/course/Maths-Analysis2-15S)
++ [Математический анализ I (МФТИ)](http://lectoriy.mipt.ru/course/Maths-Basic_Analysis#lectures)
++ [Математический анализ II (МФТИ)](http://lectoriy.mipt.ru/course/Maths-Analysis2-15S)
 + Математитеческий анализ: [часть 1](https://www.lektorium.tv/course/26567) и [часть 2](https://www.lektorium.tv/course/28698)
 + [Математический анализ (Белов и Давыдов)](https://www.lektorium.tv/course/28662)
 + [Теория функции комплексного переменного](http://lectoriy.mipt.ru/course/Maths-ComplexAnalysis-13L)
