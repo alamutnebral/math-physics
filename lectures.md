@@ -1,4 +1,4 @@
-# Источники
+### Источники:
 
 [Лекторий МФТИ](http://lectoriy.mipt.ru/)  
 [lektorium.tv](https://www.lektorium.tv/medialibrary)  
