@@ -38,6 +38,7 @@
 + [Сложность вычислений (ШАД)](https://yandexdataschool.ru/edu-process/courses/complexity)
 + [Динамические системы](https://www.lektorium.tv/course/28726)
 + [Рассказы о теории чисел, алгебраической геометрии и гомотопической топологии](https://www.lektorium.tv/course/22791)
++ [Мотивные когомологии](http://forany.xyz/a-522)
 
 # Очень другое
 ### Полные курсы
