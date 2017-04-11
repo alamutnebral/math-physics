@@ -10,7 +10,8 @@
 + Математитеческий анализ: [часть 1](https://www.lektorium.tv/course/26567) и [часть 2](https://www.lektorium.tv/course/28698)
 + [Математический анализ (Белов и Давыдов)](https://www.lektorium.tv/course/28662)
 + [Теория функции комплексного переменного](http://lectoriy.mipt.ru/course/Maths-ComplexAnalysis-13L)
-+ [Функциональный анализ](https://www.lektorium.tv/course/29724) 
++ [Функциональный анализ (Лекториум)](https://www.lektorium.tv/course/29724) 
++ [Функциональный анализ](http://forany.xyz/a-481)
 
 # Геометрия и топология
 + [Аналитическая геометрия](http://lectoriy.mipt.ru/course/Math-analyth_geom)
