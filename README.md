@@ -4,5 +4,5 @@
 + [Stepic](https://stepik.org/catalog?tag=22760)
 
 ## Лекторий
-+ [Лекторий МФТИ и lektorium.tv](https://github.com/ostatkivoli/mathematics/blob/master/lectures.md)
++ [Основной раздел](https://github.com/ostatkivoli/mathematics/blob/master/lectures.md)
 + [НМУ](https://github.com/ostatkivoli/mathematics/blob/master/nmu.md)
