@@ -21,7 +21,7 @@
   + [Геометрия-2 (Весна 2017)](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=25&confid=1018)
   + [Геометрия-1 (Осень 2016)](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=25&confid=943)
   
-+ [Сосинский и айзенберг 2016]
++ [Сосинский и Айзенберг 2016]
   + [Топология-3 (Весна 2017)](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=25&confid=1032)
   + [Топология-2 (Осень 2016)](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=25&confid=945)
   + [Топология-1 (Весна 2016)](http://www.mathnet.ru/php/conference.phtml?option_lang=rus&eventID=25&confid=861)
