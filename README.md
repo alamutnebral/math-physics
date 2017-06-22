@@ -10,5 +10,4 @@
 + [Stepic](https://stepik.org/catalog?tag=22760)
 
 # Физика
-# Лекторий
-+ [Основной раздел](https://github.com/ostatkivoli/mathematics/blob/master/physics.md)
++ [Лекторий](https://github.com/ostatkivoli/mathematics/blob/master/physics.md)
